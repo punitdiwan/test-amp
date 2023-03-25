@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>index</h1>
-      <p>Welcome User, This page was statically generated (SSG) on {britishDate()}.</p>
+      <p>Dear, This page was statically generated (SSG) on {britishDate()}.</p>
       <ul>
         <li>
           <a href="/ssr">Server Side Rendered page</a>
